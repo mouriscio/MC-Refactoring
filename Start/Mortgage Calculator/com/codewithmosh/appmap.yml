@@ -1,0 +1,6 @@
+# appmap.yml
+name: Mortgage App
+packages:
+  # List the packages you'd like to record here.
+  - path: com.codewithmosh
+  - path: com.codewithmosh.Mortgage
